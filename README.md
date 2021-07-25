@@ -13,7 +13,7 @@
 |[bncov](https://github.com/ForAllSecure/bncov)|[Mark Griffin](https://github.com/ForAllSecure)|2020-12-18|MIT|helper|Code coverage analysis and visualization plugin|
 |[BNHook](https://github.com/jeffli678/bnhook)|[Grant Orndorff](https://github.com/jeffli678)|2021-03-29|MIT|core, ui|Insert custom hooks|
 |[bnida](https://github.com/zznop/bnida)|[zznop](https://github.com/zznop)|2020-07-22|MIT|helper|Transfer analysis data between Binary Ninja and IDA|
-|[BNIL Instruction Graph](https://github.com/withzombies/bnil-graph)|[Ryan Stortz (@withzombies)](https://github.com/withzombies)|2021-06-04|Apache-2.0|ui|A plugin to graph BNIL instruction trees|
+|[BNIL Instruction Graph](https://github.com/withzombies/bnil-graph)|[Ryan Stortz (@withzombies)](https://github.com/withzombies)|2021-06-07|Apache-2.0|ui|A plugin to graph BNIL instruction trees|
 |[Call Shellcode](https://github.com/lwerdna/call_shellcode)|[lwerdna](https://github.com/lwerdna)|2021-04-03|Unlicense|helper|Add "call shellcode" menu option which executes highlighted bytes.|
 |[Callgraph](https://github.com/psifertex/callgraph)|[Josh Watson / Jordan Wiens](https://github.com/psifertex)|2021-04-07|MIT|ui|Callgraph generator for called or calling funcs|
 |[CHIP-8 ROM Loader](https://github.com/uafio/BinaryNinja-CHIP8-Arch)|[uafio](https://github.com/uafio)|2020-08-15|MIT|architecture, binaryview, core, helper, ui|Load and disassemble CHIP-8 ROM.|
@@ -49,6 +49,7 @@
 |[Jump table branch editor](https://github.com/Vasco-jofra/jump-table-branch-editor)|[jofra](https://github.com/Vasco-jofra)|2019-07-06|MIT|core, ui|A plugin that eases fixing jump table branches|
 |[kallsyms](https://github.com/zznop/bn-kallsyms)|[zznop](https://github.com/zznop)|2020-07-22|MIT|helper|Parses output from /proc/kallsyms and applies symbols to the corresponding kernel BN database|
 |[keypatch](https://github.com/lwerdna/keypatch_binja)|[lwerdna](https://github.com/lwerdna)|2021-04-09|Unlicense|helper, ui|Remake of keypatch plugin for Binary Ninja|
+|[Lighthouse](https://github.com/psifertex/lighthouse)|[Markus Gaasedelen](https://github.com/psifertex)|2021-07-24|MIT|helper|A Code Coverage Explorer for Reverse Engineers|
 |[logrn](https://github.com/sum-catnip/logrn)|[catnip](https://github.com/sum-catnip)|2021-03-09|MIT|helper|binary ninja plugin for abusing logging functions|
 |[Motorola 68k Architecture Plugin](https://github.com/wrigjl/binaryninja-m68k)|[Alex Forencich](https://github.com/wrigjl)|2020-12-30|MIT|architecture|A disassembler and lifter for the Motorola 68k architecture.|
 |[msp430 Architecture](https://github.com/joshwatson/binaryninja-msp430)|[Josh Watson](https://github.com/joshwatson)|2019-09-06|MIT|architecture|MSP430 Architecture Plugin for Binary Ninja|

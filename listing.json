@@ -1,5 +1,10 @@
 [
     {
+        "name":"psifertex/lighthouse",
+        "subdir":"bnplugin",
+        "auto_update":true
+    },
+    {
         "name":"amtal/microblaze",
         "auto_update":true
     },
