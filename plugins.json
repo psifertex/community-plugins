@@ -21,8 +21,8 @@
         "type": [
             "helper"
         ],
-        "version": "0.9.2",
-        "lastUpdated": 1627169226,
+        "version": "0.9.3",
+        "lastUpdated": 1627175913,
         "projectUrl": "https://github.com/psifertex/lighthouse",
         "projectData": {
             "id": 389211973,
@@ -91,14 +91,14 @@
             "releases_url": "https://api.github.com/repos/psifertex/lighthouse/releases{/id}",
             "deployments_url": "https://api.github.com/repos/psifertex/lighthouse/deployments",
             "created_at": "2021-07-24T22:16:04Z",
-            "updated_at": "2021-07-24T23:25:26Z",
-            "pushed_at": "2021-07-24T23:27:04Z",
+            "updated_at": "2021-07-25T01:18:26Z",
+            "pushed_at": "2021-07-25T01:18:28Z",
             "git_url": "git://github.com/psifertex/lighthouse.git",
             "ssh_url": "git@github.com:psifertex/lighthouse.git",
             "clone_url": "https://github.com/psifertex/lighthouse.git",
             "svn_url": "https://github.com/psifertex/lighthouse",
             "homepage": "",
-            "size": 11100,
+            "size": 11102,
             "stargazers_count": 0,
             "watchers_count": 0,
             "language": "Python",
@@ -337,10 +337,10 @@
             "subscribers_count": 0
         },
         "authorUrl": "https://github.com/psifertex",
-        "packageUrl": "https://api.github.com/repos/psifertex/lighthouse/zipball/refs/tags/0.9.2",
+        "packageUrl": "https://api.github.com/repos/psifertex/lighthouse/zipball/refs/tags/0.9.3",
         "dependencies": "",
         "path": "psifertex_lighthouse",
-        "commit": "803736193b696a303da4c1b41fc5f8a8580f45be",
+        "commit": "454561a876a6b634e9d2089f55e009de39f93b88",
         "minimumBinaryNinjaVersion": 0,
         "installinstructions": {},
         "subdir": "bnplugin"
