@@ -1,7 +1,7 @@
 [
     {
         "name":"psifertex/lighthouse",
-        "subdir":"bnplugin",
+        "subdirectory":"bnplugin",
         "auto_update":true
     },
     {
